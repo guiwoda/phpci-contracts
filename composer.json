@@ -1,0 +1,20 @@
+{
+	"name": "block8/phpci-contracts",
+	"description": "Contracts for the PHPCI project.",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Guido Contreras Woda",
+			"email": "guiwoda@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"PHPCI\\Contracts\\": "src/"
+		}
+	},
+	"require": {
+		"psr/log": "~1.0"
+	}
+}
