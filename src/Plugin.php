@@ -7,7 +7,7 @@
  * @link         https://www.phptesting.org/
  */
 
-namespace PHPCI;
+namespace PHPCI\Contracts;
 
 /**
  * PHPCI Plugin Interface - Used by all build plugins.
